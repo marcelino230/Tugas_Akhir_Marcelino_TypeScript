@@ -1,0 +1,87 @@
+{
+  "stats": {
+    "suites": 0,
+    "tests": 1,
+    "passes": 1,
+    "pending": 0,
+    "failures": 0,
+    "start": "2023-07-04T07:52:52.308Z",
+    "end": "2023-07-04T07:52:57.115Z",
+    "duration": 4807,
+    "testsRegistered": 1,
+    "passPercent": 100,
+    "pendingPercent": 0,
+    "other": 0,
+    "hasOther": false,
+    "skipped": 0,
+    "hasSkipped": false
+  },
+  "results": [
+    {
+      "uuid": "cda66b9f-73fd-4ab6-8e4f-c77f49a6aa05",
+      "title": "",
+      "fullFile": "cypress/integration/add_to_cart.ts",
+      "file": "cypress/integration/add_to_cart.ts",
+      "beforeHooks": [],
+      "afterHooks": [],
+      "tests": [
+        {
+          "title": "Test Add Item to Cart",
+          "fullTitle": "Test Add Item to Cart",
+          "timedOut": null,
+          "duration": 3012,
+          "state": "passed",
+          "speed": "fast",
+          "pass": true,
+          "fail": false,
+          "pending": false,
+          "context": null,
+          "code": "loginPage.login(URL, 'standard_user', 'secret_sauce');\nloginPage.assertLogin();\ndashboardPage.sauceLabsBackpack();\ndashboardPage.addToCart();",
+          "err": {},
+          "uuid": "cd0ded8a-4a26-4895-92cb-f4eac5f1d27b",
+          "parentUUID": "cda66b9f-73fd-4ab6-8e4f-c77f49a6aa05",
+          "isHook": false,
+          "skipped": false
+        }
+      ],
+      "suites": [],
+      "passes": [
+        "cd0ded8a-4a26-4895-92cb-f4eac5f1d27b"
+      ],
+      "failures": [],
+      "pending": [],
+      "skipped": [],
+      "duration": 3012,
+      "root": true,
+      "rootEmpty": false,
+      "_timeout": 2000
+    }
+  ],
+  "meta": {
+    "mocha": {
+      "version": "7.0.1"
+    },
+    "mochawesome": {
+      "options": {
+        "quiet": false,
+        "reportFilename": "mochawesome",
+        "saveHtml": false,
+        "saveJson": true,
+        "consoleReporter": "spec",
+        "useInlineDiffs": false,
+        "code": true
+      },
+      "version": "7.1.3"
+    },
+    "marge": {
+      "options": {
+        "chart": true,
+        "overwrite": false,
+        "html": false,
+        "json": true,
+        "reportDir": "cypress/reports"
+      },
+      "version": "6.2.0"
+    }
+  }
+}
