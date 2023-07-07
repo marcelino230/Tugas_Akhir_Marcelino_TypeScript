@@ -10,13 +10,13 @@ The document containing the test scenarios and test steps for the login scenario
 
 ### Video Recordings
 
-Video recordings of the testing process for the "Add to Cart" scenario can be found [here](https://drive.google.com/file/d/1TZSwxXsavLsz_a3EWswurVIb6ve19-9t/view?usp=sharing).
+Video recordings of the testing process for the "Add to Cart" scenario can be found [here](https://drive.google.com/file/d/1fQmI3vkMlJjX1nRiy1q5AEpGLBC3T2Cm/view?usp=sharing).
 
-Video recordings of the testing process for the "Checkout Process" scenario can be found [here](https://drive.google.com/file/d/1sO_PpWPk2E-3_ToW_GZs8UWARe6mKuD7/view?usp=sharing).
+Video recordings of the testing process for the "Checkout Process" scenario can be found [here](https://drive.google.com/file/d/1ZMPx-w_WMMg4XEHAF8A_hh9vEtUDn98G/view?usp=sharing).
 
 ### Screenshots
 
-Screenshots of the test results for all scenarios can be found [here](https://drive.google.com/drive/folders/1HyQujVEt-R_WVMGSvLWN-PZ6-zqGxxCO?usp=sharing).
+Screenshots of the test results for all scenarios can be found [here](https://github.com/marcelino230/Tugas_Akhir_Marcelino_TypeScript/blob/main/ss_hasil.png).
 
 ### Prerequisites
 
